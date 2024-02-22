@@ -1,0 +1,33 @@
+html {
+    margin: 10px;
+    text-align: center;
+}
+
+h1 {
+    color:midnightblue;
+}
+
+i {
+    font-size: 25px;
+}
+
+#input {
+    margin-bottom: 35px;
+}
+
+input[type="text"] {
+    height: 20px;
+    width: 250px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #979494;
+}
+
+input[type="submit"] {
+    height: 23px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: midnightblue;
+    border: none;
+    color: white;
+}
